@@ -1,0 +1,65 @@
+html {
+    border: rgb(164, 161, 161) 10px solid;
+}
+
+body {
+    font-family: Arial;
+    border-radius: 5%;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+#titulo {
+    color: peru;
+}
+
+h2 {
+    color: yellowgreen;
+    text-decoration: underline;
+}
+
+h3 {
+    color: peru;
+}
+
+div {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px;
+}
+
+#div2 {
+    width: 10%;
+    height: 5px;
+}
+
+#div3 {
+    width: 80%;
+    border: gray 1px solid;
+}
+
+button {
+    text-align: center;
+    background-color: rgb(167, 221, 60);
+    width: 120px;
+    height: 35px;
+}
+
+#boton {
+    background-color: rgb(232, 169, 107);
+}
+
+p {
+    text-align: justify;
+}
+
+#cc {
+    font-style: oblique;
+    color: rgb(179, 176, 176);
+    text-align: center;
+    font-size: small;
+}

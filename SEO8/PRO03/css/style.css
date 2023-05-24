@@ -1,0 +1,24 @@
+body {
+    background-color:antiquewhite;
+    font-family: Arial;
+}
+
+h1 {
+    background-color: orange;
+}
+
+h2 {
+    font-size: 250%;
+    font-style: italic;
+    color: rgb(21, 142, 228);
+}
+
+.datos {
+    color: steelblue;
+    font-style: italic;
+}
+
+.mode {
+    color: steelblue;
+    font-weight: 800;
+}

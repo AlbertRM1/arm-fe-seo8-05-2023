@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(200, 231, 235);
+    color: darkcyan;
+    font-family: Arial;
+}
+
+h1, h2 {
+    font-style: oblique;
+}
